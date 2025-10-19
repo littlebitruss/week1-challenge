@@ -23,6 +23,8 @@ body {
 }
 .sub {
   color: #555;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 #content {
   display: grid;
@@ -38,15 +40,21 @@ body {
 .post-title {
   font-size: 20px;
   margin-bottom: 4px;
+  font-weight: normal;
+  margin-top: 0px;
 }
 .post-meta {
   font-size: 12px;
   color: #666;
   margin-bottom: 8px;
+  margin-top: 0px;
+  font-weight: normal;
 }
 .panel-title {
   font-weight: 600;
-  margin-bottom: 8px;
+    margin-bottom: 8px;
+    font-size: 16px;
+    margin-top: 0px;
 }
 .tag {
   display: inline-block;
